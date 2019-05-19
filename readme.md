@@ -10,3 +10,8 @@ After careful consideration I've decided to implement this site in a blog-format
 
 Update on 18 May
 Finally getting back to this
+
+### Todo
+
+Install netlify information
+Look into netlify dev setup
