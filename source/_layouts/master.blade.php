@@ -20,6 +20,7 @@
         @stack('meta')
 
         @if ($page->production)
+            <script src="https://www.google.com/recaptcha/api.js" async defer></script>
             <!-- Global site tag (gtag.js) - Google Analytics -->
             <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145378724-1"></script>
             <script>
