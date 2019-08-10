@@ -14,7 +14,7 @@
 
 
     <div class="px-2">
-        <div class="flex -mx-4">
+        <div class="flex flex-wrap -mx-4">
             <div class="p-0 sm:p-3 w-full sm:w-full md:w-1/2 mb-4">
                 <div class="overflow-hidden rounded-lg shadow-lg bg-white p-6 h-full">
                     <h4>Board of Directors</h4>
