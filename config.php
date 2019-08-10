@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'https://qvhamashpee.com',
     'production' => false,
-    'siteName' => 'QVHA',
-    'siteDescription' => 'Quashnet Valley Homeowners Association, Mashpee, MA',
+    'siteName' => 'Quashnet Valley Homeowners Association',
+    'siteDescription' => 'This website is a resource for the homeowners, property managers, renters and caretakers within the Quashnet Valley Homeowners Association. For questions or suggestions, please contact board@qvhamashpee.com',
     'siteAuthor' => 'Dave Fravel',
 
     // collections

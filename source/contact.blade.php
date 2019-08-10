@@ -8,13 +8,13 @@
 @endpush
 
 @section('body')
-<h1>Contact</h1>
+<h1>Contact Us</h1>
 
 <p class="mb-8">
-    Static sites are unable to handle form submissions. However, there are third-party services, like Tighten’s <a href="https://fieldgoal.io" title="FieldGoal">FieldGoal</a>, which can accept the form submission, email you the result, and redirect back to a thank you page.
+    Please use the form below to send us a message. This will be directed to the QVHA Board, and we'll respond to your questions as soon as possible.
 </p>
 
-<form action="/contact" class="mb-12">
+<form action="https://fieldgoal.io/f/NOOuct" method="POST">
     <div class="flex flex-wrap mb-6 -mx-3">
         <div class="w-full md:w-1/2 mb-6 md:mb-0 px-3">
             <label class="block mb-2 text-gray-800 text-sm font-semibold" for="contact-name">
@@ -46,6 +46,39 @@
             >
         </div>
     </div>
+
+
+
+    <div class="flex flex-wrap mb-6 -mx-3">
+            <div class="w-full md:w-1/2 mb-6 md:mb-0 px-3">
+                <label class="block mb-2 text-gray-800 text-sm font-semibold" for="contact-address">
+                    Street Address
+                </label>
+    
+                <input
+                    type="text"
+                    id="contact-address"
+                    placeholder="123 Golf Way"
+                    name="contact-address"
+                    class="block w-full border shadow rounded-lg outline-none mb-2 px-4 py-3"
+                    required
+                >
+            </div>
+    
+            <div class="w-full px-3 md:w-1/2">
+                <label class="block text-gray-800 text-sm font-semibold mb-2" for="contact-phone">
+                    Phone Number
+                </label>
+    
+                <input
+                    type="phone"
+                    id="contact-phone"
+                    placeholder="508-555-1212"
+                    name="contact-phone"
+                    class="block w-full border shadow rounded-lg outline-none mb-2 px-4 py-3"
+                >
+            </div>
+        </div>
 
     <div class="w-full mb-12">
         <label class="block text-gray-800 text-sm font-semibold mb-2" for="contact-message">

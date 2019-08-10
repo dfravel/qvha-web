@@ -22,5 +22,5 @@
         @endif
     @endforeach
 
-    @include('_components.newsletter-signup')
+    @include('_components.questions-cta')
 @stop
