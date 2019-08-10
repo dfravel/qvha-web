@@ -1,5 +1,7 @@
 ### Quashnet Valley Homeowners Association Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5a040913-fc28-4553-8ef0-f74125bcbc28/deploy-status)](https://app.netlify.com/sites/qvha-web/deploys)
+
 This website has been created and will be maintained by Dave Fravel. As of Sunday, January 20 I'm deciding to develop this website in a JAMStack architecture:
 
 -   Netlify CMS
