@@ -4,10 +4,10 @@
         About
     </a>
 
-    <a title="{{ $page->siteName }} Minutes and Documents" href="/documentation"
+    {{-- <a title="{{ $page->siteName }} Minutes and Documents" href="/documentation"
         class="ml-6 text-gray-700 hover:text-blue-600 {{ $page->isActive('/documents') ? 'active text-blue-600' : '' }}">
         Minutes and Documents
-    </a>
+    </a> --}}
 
 
     <a title="{{ $page->siteName }} Blog" href="/blog"

@@ -10,15 +10,45 @@
 @section('body')
     <h1>About the QVHA</h1>
 
-    <img src="/assets/img/about.png"
-        alt="About image"
-        class="flex rounded-full h-64 w-64 bg-contain mx-auto md:float-right my-6 md:ml-10">
-
     <p class="mb-6">Welcome to the Quashnet Valley Homeowners Association - a community of over 100 homes north of Routes 28 and 151 in Mashpee, MA</p>
 
-    <p class="mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum officia dolorem accusantium veniam quae, possimus, temporibus explicabo magni voluptas. fugit natus deserunt atque veniam possimus earum harum itaque est!</p>
 
-    <p class="mb-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum officia dolorem accusantium veniam quae, possimus, temporibus explicabo magni voluptas. fugit natus deserunt atque veniam!</p>
+    <div class="px-2">
+        <div class="flex -mx-4">
+            <div class="p-0 sm:p-3 w-full sm:w-full md:w-1/2 mb-4">
+                <div class="overflow-hidden rounded-lg shadow-lg bg-white p-6 h-full">
+                    <h4>Board of Directors</h4>
+                    <ul class="list-disc ml-4">
+                        <li class="text-sm">Tony Venuti - President</li>
+                        <li class="text-sm">Christopher Nelson - Treasurer</li>
+                        <li class="text-sm">Dave Fravel - Secretary</li>
+                        <li class="text-sm">Open - Sunshine Coordinator</li>
+                        <li class="text-sm">Open - Site Improvement Coordinator</li>
+                    </ul>
+                </div>
+                
+            </div>
+
+            <div class="p-0 sm:p-3 w-full sm:w-full md:w-1/2 mb-4">
+                <div class="overflow-hidden rounded-lg shadow-lg bg-white p-6 h-full">
+                        <h4>Committees</h4>
+                        <ul class="list-disc ml-4">
+                            <li class="text-sm">Landscape Committee</li>
+                            <li class="text-sm">Sunshine Committee</li>
+                        </ul>
+                </div>
+                
+
+            </div>
+        </div>
+    </div>
+
+    @include('_components.questions-cta')
+    
+    
+
+
+
 
 
     <div class="w-full mt-20">
