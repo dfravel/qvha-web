@@ -50,35 +50,35 @@
 
 
     <div class="flex flex-wrap mb-6 -mx-3">
-            <div class="w-full md:w-1/2 mb-6 md:mb-0 px-3">
-                <label class="block mb-2 text-gray-800 text-sm font-semibold" for="contact-address">
-                    Street Address
-                </label>
-    
-                <input
-                    type="text"
-                    id="contact-address"
-                    placeholder="123 Golf Way"
-                    name="contact-address"
-                    class="block w-full border shadow rounded-lg outline-none mb-2 px-4 py-3"
-                    required
-                >
-            </div>
-    
-            <div class="w-full px-3 md:w-1/2">
-                <label class="block text-gray-800 text-sm font-semibold mb-2" for="contact-phone">
-                    Phone Number
-                </label>
-    
-                <input
-                    type="phone"
-                    id="contact-phone"
-                    placeholder="508-555-1212"
-                    name="contact-phone"
-                    class="block w-full border shadow rounded-lg outline-none mb-2 px-4 py-3"
-                >
-            </div>
+        <div class="w-full md:w-1/2 mb-6 md:mb-0 px-3">
+            <label class="block mb-2 text-gray-800 text-sm font-semibold" for="contact-address">
+                Street Address
+            </label>
+
+            <input
+                type="text"
+                id="contact-address"
+                placeholder="123 Golf Way"
+                name="contact-address"
+                class="block w-full border shadow rounded-lg outline-none mb-2 px-4 py-3"
+                required
+            >
         </div>
+
+        <div class="w-full px-3 md:w-1/2">
+            <label class="block text-gray-800 text-sm font-semibold mb-2" for="contact-phone">
+                Phone Number
+            </label>
+
+            <input
+                type="phone"
+                id="contact-phone"
+                placeholder="508-555-1212"
+                name="contact-phone"
+                class="block w-full border shadow rounded-lg outline-none mb-2 px-4 py-3"
+            >
+        </div>
+    </div>
 
     <div class="w-full mb-12">
         <label class="block text-gray-800 text-sm font-semibold mb-2" for="contact-message">
@@ -95,12 +95,22 @@
         ></textarea>
     </div>
 
-    <div class="flex justify-end w-full">
-        <input
-            type="submit"
-            value="Submit"
-            class="block bg-blue-500 hover:bg-blue-600 text-white text-sm font-semibold leading-snug tracking-wide uppercase shadow rounded-lg cursor-pointer px-6 py-3"
-        >
+
+    
+
+    <div class="flex flex-wrap mb-6 -mx-3">
+        <div class="w-full md:w-1/2 mb-6 md:mb-0 px-3">
+            <div class="g-recaptcha" data-sitekey="6LfhX7IUAAAAAEQi_XqByDCp9RLJvbmbYtzhVIpW"></div>
+        </div>
+
+        <div class="w-full justify-end px-3 md:w-1/2">
+            <input
+                type="submit"
+                value="Submit"
+                class="block bg-blue-500 hover:bg-blue-600 text-white text-sm font-semibold leading-snug tracking-wide uppercase shadow rounded-lg cursor-pointer px-6 py-3"
+            >
+        </div>
     </div>
+
 </form>
 @stop
