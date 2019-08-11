@@ -10,8 +10,20 @@
 @section('body')
     <h1>About the QVHA</h1>
 
-    <p class="mb-6">Welcome to the Quashnet Valley Homeowners Association - a community of over 100 homes north of Routes 28 and 151 in Mashpee, MA</p>
+    <p class="mb-6">Welcome to the Quashnet Valley Homeowners Association, a not for profit corporation representating a community of over 100 homes north of Routes 28 and 151 in Mashpee, MA</p>
 
+    <p class="mb-6">The QVHA annual assessment is $200 per household. The bulk of this assessment is spent on landscaping within the common areas, with the remainder allocated to cover insurance, legal, utilities, and accounting expenses.</p>
+
+
+    <p class="mb-6">With the exception of three homes on Olde Barnstable Road, the rest of our community is on streets named after professional golfers:</p>
+    <ul class="list-disc ml-8">
+        <li class="text-sm">Ben <strong>Hogan</strong></li>
+        <li class="text-sm">Sam <strong>Snead</strong></li>
+        <li class="text-sm">Arnold <strong>Palmer</strong></li>
+        <li class="text-sm">Byron <strong>Nelson</strong></li>
+        <li class="text-sm">Johnny <strong>Miller</strong></li>
+        <li class="text-sm">Gary <strong>Player</strong></li>
+    </ul>
 
     <div class="px-2">
         <div class="flex flex-wrap -mx-4">
@@ -46,6 +58,7 @@
     @include('_components.questions-cta')
     
     
+
 
 
 

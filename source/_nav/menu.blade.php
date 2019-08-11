@@ -9,6 +9,10 @@
         Minutes and Documents
     </a> --}}
 
+    <a title="{{ $page->siteName }} Frequenty Asked Questions" href="/faqs"
+        class="ml-6 text-gray-700 hover:text-blue-600 {{ $page->isActive('/faqs') ? 'active text-blue-600' : '' }}">
+        FAQs
+    </a>
 
     <a title="{{ $page->siteName }} Blog" href="/blog"
         class="ml-6 text-gray-700 hover:text-blue-600 {{ $page->isActive('/blog') ? 'active text-blue-600' : '' }}">
