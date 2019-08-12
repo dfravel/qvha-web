@@ -7,6 +7,15 @@
                 class="nav-menu__item hover:text-blue-500 {{ $page->isActive('/blog') ? 'active text-blue' : '' }}"
             >Blog</a>
         </li>
+
+        <li class="pl-4">
+            <a title="{{ $page->siteName }} Frequenty Asked Questions" href="/faqs"
+                class="ml-6 text-gray-700 hover:text-blue-600 {{ $page->isActive('/faqs') ? 'active text-blue-600' : '' }}">
+            FAQs
+            </a>
+        </li>
+
+
         <li class="pl-4">
             <a
                 title="{{ $page->siteName }} About"
