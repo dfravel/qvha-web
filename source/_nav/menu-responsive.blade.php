@@ -9,11 +9,13 @@
         </li>
 
         <li class="pl-4">
-            <a title="{{ $page->siteName }} Frequenty Asked Questions" href="/faqs"
-                class="ml-6 text-gray-700 hover:text-blue-600 {{ $page->isActive('/faqs') ? 'active text-blue-600' : '' }}">
-            FAQs
-            </a>
+            <a
+                title="{{ $page->siteName }} FAQs"
+                href="/faqs"
+                class="nav-menu__item hover:text-blue-500 {{ $page->isActive('/faqs') ? 'active text-blue' : '' }}"
+            >FAQs</a>
         </li>
+
 
 
         <li class="pl-4">
