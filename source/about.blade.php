@@ -34,8 +34,9 @@
                         <li class="text-sm">Tony Venuti - President</li>
                         <li class="text-sm">Christopher Nelson - Treasurer</li>
                         <li class="text-sm">Dave Fravel - Secretary</li>
+                        <li class="text-sm">Gary Johnson - Site Improvement Coordinator</li>
                         <li class="text-sm">Open - Sunshine Coordinator</li>
-                        <li class="text-sm">Open - Site Improvement Coordinator</li>
+                    
                     </ul>
                 </div>
                 
