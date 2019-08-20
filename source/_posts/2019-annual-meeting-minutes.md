@@ -65,12 +65,12 @@ We decided to table the vote for a community-wide yard sale after multiple peopl
 
 Some items that came up during an open discussion period:
 
-1.  We have a signage sub-committee that’s looking into modernizing the HOA signs at the main entrances
-2.  Brian Cosgrove asked for a round of applause for Ed and Carolyn Markowski for all they’ve done for the common area landscaping
-3.  The Site Improvement Committee (formerly landscape committee) will be putting together an RFP and soliciting proposals from (hopefully) three companies for landscape services in the common area for next year
-4.  Gary Johnson asked for a round of applause for Gary Corrigan for all the work that Gary did over the past year.
-5.  Gary Johnson also thanked Agnes Bolduc for her donation of all the cobblestones for the common areas
-6.  There was a general discussion about boats, trailers, unregistered cars, advertising signs, and other possible by-law and covenant infractions. The board has promised to address these matters.
+-   We have a signage sub-committee that’s looking into modernizing the HOA signs at the main entrances
+-   Brian Cosgrove asked for a round of applause for Ed and Carolyn Markowski for all they’ve done for the common area landscaping
+-   The Site Improvement Committee (formerly landscape committee) will be putting together an RFP and soliciting proposals from (hopefully) three companies for landscape services in the common area for next year
+-   Gary Johnson asked for a round of applause for Gary Corrigan for all the work that Gary did over the past year.
+-   Gary Johnson also thanked Agnes Bolduc for her donation of all the cobblestones for the common areas
+-   There was a general discussion about boats, trailers, unregistered cars, advertising signs, and other possible by-law and covenant infractions. The board has promised to address these matters.
 
 ### Board Member Vote
 
