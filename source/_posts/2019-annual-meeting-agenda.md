@@ -6,7 +6,7 @@ date: 2019-08-10
 description: Information for the 2019 Annual Meeting
 cover_image: /assets/img/post-cover-image-1.png
 featured: false
-categories: [news, meetings]
+categories: [news, annual-meeting, meetings]
 ---
 
 Outlined below is the agenda for the 2019 QVHA Annual Meeting. It will be held on Saturday, August 17 at 10am at the Mashpee Public Library

@@ -6,7 +6,7 @@ date: 2019-08-10
 description: Information for the 2019 Annual Meeting
 cover_image: /assets/img/qvha-hero.jpg
 featured: true
-categories: [news]
+categories: [news, annual-meeting, meetings]
 ---
 
 Here's all of the information that you'll need for the 2019 QVHA Annual Meeting. This information has been distributed via email (for those addresses we have), mail (for those who aren't local) and on foot (for those locals without email address)
