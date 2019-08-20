@@ -4,7 +4,7 @@ section: content
 title: 2019 Annual Meeting Minutes
 date: 2019-08-20
 description: Minutes from the 2019 Annual Meeting
-cover_image: /assets/img/mashpee-public-library.jpg
+cover_image: /assets/img/mashpee-publc-library.jpg
 featured: true
 categories: [news, annual-meeting, meetings]
 ---
@@ -65,26 +65,21 @@ We decided to table the vote for a community-wide yard sale after multiple peopl
 
 Some items that came up during an open discussion period:
 
-# We have a signage sub-committee that’s looking into modernizing the HOA signs at the main entrances
-
-# Brian Cosgrove asked for a round of applause for Ed and Carolyn Markowski for all they’ve done for the common area landscaping
-
-# The Site Improvement Committee (formerly landscape committee) will be putting together an RFP and soliciting proposals from (hopefully) three companies for landscape services in the common area for next year
-
-# Gary Johnson asked for a round of applause for Gary Corrigan for all the work that Gary did over the past year.
-
-# Gary Johnson also thanked Agnes Bolduc for her donation of all the cobblestones for the common areas
-
-# There was a general discussion about boats, trailers, unregistered cars, advertising signs, and other possible by-law and covenant infractions. The board has promised to address these matters.
+-   We have a signage sub-committee that’s looking into modernizing the HOA signs at the main entrances
+-   Brian Cosgrove asked for a round of applause for Ed and Carolyn Markowski for all they’ve done for the common area landscaping
+-   The Site Improvement Committee (formerly landscape committee) will be putting together an RFP and soliciting proposals from (hopefully) three companies for landscape services in the common area for next year
+-   Gary Johnson asked for a round of applause for Gary Corrigan for all the work that Gary did over the past year.
+-   Gary Johnson also thanked Agnes Bolduc for her donation of all the cobblestones for the common areas
+-   There was a general discussion about boats, trailers, unregistered cars, advertising signs, and other possible by-law and covenant infractions. The board has promised to address these matters.
 
 ### Board Member Vote
 
 The Board for 2019-2020 will be:
 
-Tony Venuti - President
-Christopher Nelson - Treasurer
-Dave Fravel - Secretary
-Gary Johnson
+-   Tony Venuti - President
+-   Christopher Nelson - Treasurer
+-   Dave Fravel - Secretary
+-   Gary Johnson
 
 The vote to approve the board was unanimous
 
