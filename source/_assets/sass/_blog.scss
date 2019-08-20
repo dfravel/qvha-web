@@ -1,1 +1,8 @@
-// Your custom blog styles here
+.blog-post {
+    ul {
+        @apply list-disc;
+        li {
+            @apply ml-4 pb-2;
+        }
+    }
+}
