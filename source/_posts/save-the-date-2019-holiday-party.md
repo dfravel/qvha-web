@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: Save the Date - 2019 Holiday Party - December 15
+title: Save the Date - December 15
 date: 2019-08-24
 description: Information for the 2019 Annual Meeting
 cover_image: /assets/img/holiday-party.png
