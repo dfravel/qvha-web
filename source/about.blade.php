@@ -44,14 +44,25 @@
 
             <div class="p-0 sm:p-3 w-full sm:w-full md:w-1/2 mb-4">
                 <div class="overflow-hidden rounded-lg shadow-lg bg-white p-6 h-full">
-                        <h4>Committees</h4>
+                        <h4>Sunshine Committee</h4>
                         <ul class="list-disc ml-4">
-                            <li class="text-sm">Landscape Committee</li>
-                            <li class="text-sm">Sunshine Committee</li>
+                            <li class="text-sm">Jan Barnum</li>
+                            <li class="text-sm">Larry Bornstein</li>
+                            <li class="text-sm">Joanne Coletti</li>
+                            <li class="text-sm">Lynda Gaudet</li>
+                            <li class="text-sm">Peggy Wolman</li>
                         </ul>
                 </div>
-                
+            </div>
 
+            <div class="p-0 sm:p-3 w-full sm:w-full md:w-1/2 mb-4">
+                <div class="overflow-hidden rounded-lg shadow-lg bg-white p-6 h-full">
+                        <h4>Landscape Committee</h4>
+                        <ul class="list-disc ml-4">
+                            <li class="text-sm">Coming Soon</li>
+                            
+                        </ul>
+                </div>
             </div>
         </div>
     </div>
