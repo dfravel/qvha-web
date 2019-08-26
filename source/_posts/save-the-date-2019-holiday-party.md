@@ -9,7 +9,7 @@ featured: true
 categories: [news, sunshine-committee]
 ---
 
-Join your neighbors to celebrate the warmth of the season with good cheer, music and merriment!
+Join your neighbors to celebrate the warmth of the season with good cheer, music, and merriment!
 
 December 15, 2019
 
