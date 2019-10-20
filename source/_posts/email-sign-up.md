@@ -11,12 +11,15 @@ categories: [news]
 
 We're in the process of converting our email communication platform. Please use the form below to signup for emails from the QVHA board. We send (at most) 2-3 emails a month, but we promise they're all fun, helpful and exciting.
 
-If you have any questions or concerns about this, please complete the form on the [https://qvhamashpee.com/contact-us](contact page).
+If you have any questions or concerns about this, please complete the form on the [contact page](https://qvhamashpee.com/contact-us/).
 
 <hr>
 
 <!-- Begin Mailchimp Signup Form -->
-<div id="mc_embed_signup" class="w-full flex flex-col justify-center lg:-mx-12 my-12 p-6 md:px-12 bg-gray-200 border border-gray-400 text-sm md:rounded shadow">
+<style>
+    #mc-embedded-subscribe { width: 50%;}
+</style>
+<div id="mc_embed_signup" class="w-full flex flex-col justify-center my-12 p-6 md:px-12 bg-gray-200 border border-gray-400 text-sm md:rounded shadow mx-auto">
 <form action="https://qvhamashpee.us20.list-manage.com/subscribe/post?u=b3348e6bf7bc627d5644942e4&amp;id=c82744a1be" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
