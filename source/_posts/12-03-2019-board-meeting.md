@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: December 3 2019 Board Meeting
+title: December 3, 2019 Board Meeting
 date: 2019-12-04
 description: Minutes from the December 3, 2019 Board Meeting
 featured: true
@@ -12,9 +12,7 @@ The latest board meeting minutes are also available [via PDF](/assets/files/1203
 
 ### Minute of the QVHA Board Meeting - Tuesday, December 3, 2019
 
-Tuesday, December 3, 2019
-7pm - 8:15pm
-27 Snead Drive
+The December board meeting was held from 7pm-8:15pm at 27 Snead Drive.
 
 #### In Attendance
 
