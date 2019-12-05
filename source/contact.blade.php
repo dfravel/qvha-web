@@ -9,6 +9,12 @@
 
 @section('body')
 <h1>Contact Us</h1>
+<p class="mb-8">
+    <strong>QVHA</strong><br>
+    PO Box 766<br>
+    Mashpee, MA 02649
+</p>
+
 
 <p class="mb-8">
     Please use the form below to send us a message. This will be directed to the QVHA Board, and we'll respond to your questions as soon as possible.

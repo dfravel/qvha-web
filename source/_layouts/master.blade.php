@@ -75,6 +75,13 @@
                     and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>. Thanks to <a href="https://tighten.co" title="Tighten website">Tighten</a> for creating this platform.
                 </li>
             </ul>
+
+            <ul class="flex flex-col md:flex-row justify-center list-reset">
+                <li class="md:mr-2">
+                    Quashnet Valley Homeowners Association &bull; PO Box 766 &bull; Mashpee, MA 02649.
+                </li>
+                
+            </ul>
         </footer>
 
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
