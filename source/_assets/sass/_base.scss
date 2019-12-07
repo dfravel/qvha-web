@@ -29,6 +29,7 @@ code {
     @apply .py-px;
     @apply .rounded;
     @apply .text-sm;
+    white-space: pre-wrap;
 }
 
 code.hljs {

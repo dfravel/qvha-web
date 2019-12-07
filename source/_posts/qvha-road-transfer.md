@@ -15,7 +15,7 @@ The cost to QVHA homeowners was a total of $264,172.  The cost was equally divid
 
 The vote to transfer was approved by over 80% of the community.  The driving force was the condition of the roadways, catch basins etc.  Prior to the transfer QVHA had a reserve fund for road maintenance.  The amount of money in reserves was used to supplement operational requirements.
 
-At last year's Annual Meeting the Board and Community voted to increase dues to $200 to continue to maintain a reserve for unanticipated events such as a severe storm that could knock over trees on common land or other such events.
+At last year\'s Annual Meeting the Board and Community voted to increase dues to $200 to continue to maintain a reserve for unanticipated events such as a severe storm that could knock over trees on common land or other such events.
 
 Since the roads are now monitored by the police, I suspect that parking on the street might now come under town control.
 ```
