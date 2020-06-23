@@ -76,8 +76,9 @@ h3 {
 }
 
 h4 {
-    @apply .font-normal;
+    @apply .font-bold;
     @apply .text-2xl;
+    @apply .mb-0;
 }
 
 h5 {

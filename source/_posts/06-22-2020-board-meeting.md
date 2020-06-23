@@ -47,9 +47,9 @@ We’ll be sending a note to the community regarding personal purchases made for
 
 We’ve received a few complaints from the golf superintendent about dogs on the course. The specific complaints are:
 
-1. Allowing dogs to run free on the course
-2. Not cleaning up after dogs
-3. cleaning up after dogs but tossing the bags into the garbage receptacles at the tee boxes
+-   Allowing dogs to run free on the course
+-   Not cleaning up after dogs
+-   cleaning up after dogs but tossing the bags into the garbage receptacles at the tee boxes
 
 We’ll be sending a reminder to the community about being good dog owners and respecting the work of the golf superintendent and his team.
 
