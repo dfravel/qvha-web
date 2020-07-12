@@ -14,7 +14,7 @@ The latest board meeting minutes are also available [via PDF](/assets/files/0709
 
 The June board meeting was held on Thursday, July 9 from 6:30pm-7:10pm at 27 Snead Drive
 
-**In Attendance**
+#### In Attendance
 
 -   Tony Venuti
 -   Gary Johnson
