@@ -12,16 +12,15 @@ The latest board meeting minutes are also available [via PDF](/assets/files/0709
 
 ### Quashnet Valley Homeowners Association Board Meeting
 
-Thursday, July 9, 2020
-6:30pm - 7:10pm
-27 Snead Drive
+The June board meeting was held on Thursday, July 9 from 6:30pm-7:10pm at 27 Snead Drive
 
 **In Attendance**
-Tony Venuti
-Gary Johnson
-Christopher Nelson
-Dave Fravel
-Don Allen
+
+-   Tony Venuti
+-   Gary Johnson
+-   Christopher Nelson
+-   Dave Fravel
+-   Don Allen
 
 ### Updated Presentation on Signage Options
 
