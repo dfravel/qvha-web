@@ -35,10 +35,10 @@ By a vote of 64-0, the 2020-2021 Board was elected. However, there was one vote 
 
 This led to a discussion and a review of the by-laws. The by-laws state:
 
-Article 7. Board of Directors
+**Article 7. Board of Directors**  
 The affairs of the Association shall be managed by a board of not less than (3) nor more than five (5) directors, none of whom need be members of the Association.
 
-![Residency Requirements](/assets/images/board-residence.png)
+![Residency Requirements](/assets/img/board-residence.png)
 
 Based on this, it was determined that Dave Fravel could continue to serve as a member of the QVHA Board.
 
@@ -92,7 +92,7 @@ Over the past few months, we’ve had homes purchased at:
 -   91 Palmer
 -   262 Old Barnstable
 
-In the past, a member of the Board has been tasked with welcoming new members to the Association. Over the past few years this formal practice has faded away. Ed Markowski mentioned that his wife, Carolyn Markowski, would be interested in renewing this process. Based on this, Dave Fravel will be printing copies of the by-laws and the QVHA Public Directory for Carolyn to use when welcoming new members. If any members of QVHA is interested in working with Carolyn, please contact the Board at board@qvhamashpee.com
+In the past, a member of the Board has been tasked with welcoming new members to the Association. Over the past few years this formal practice has faded away. Ed Markowski mentioned that his wife, Carolyn Markowski, would be interested in renewing this process. Based on this, Dave Fravel will be printing copies of the by-laws and the QVHA Public Directory for Carolyn to use when welcoming new members. If any members of QVHA is interested in working with Carolyn, please contact the Board at <board@qvhamashpee.com>
 
 The meeting adjourned at 10:59am.
 
