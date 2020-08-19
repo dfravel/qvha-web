@@ -21,7 +21,7 @@ The meeting was called to order at 10:15am on Saturday, August 15, 2020 at 27 Sn
 -   Christopher Nelson
 -   Ed Markowski
 
-Due to the ongoing pandemic, the Board voted to cancel the standard, in-person annual meeting. Instead, we sent the agenda, 2021 budget, and voting form to the community via email, website, and personal delivery. We requested that homeowners either mail or drop-off their voting forms by Thursday, August 13.
+Due to the ongoing pandemic, the Board voted to cancel the standard, in-person annual meeting. Instead, we sent the instructions, 2021 budget, 2019 actual income & expenses, and voting form to the community via email, website, and personal delivery. We requested that homeowners either mail or drop-off their voting forms by Thursday, August 13.
 
 As of Saturday, August 15, 64 homes submitted their voting forms. This number was verified by Board President Tony Venuti, and Board Secretary Dave Fravel. The response exceeded the quorum requirement of 25% of the community needed to approve the annual meeting agenda items.
 
