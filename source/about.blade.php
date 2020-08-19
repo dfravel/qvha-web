@@ -32,10 +32,10 @@
                     <h4>Board of Directors</h4>
                     <ul class="list-disc ml-4">
                         <li class="text-sm">Tony Venuti - President</li>
-                        <li class="text-sm">Christopher Nelson - Treasurer</li>
+                        <li class="text-sm">Gary Johnson - Treasurer</li>
                         <li class="text-sm">Dave Fravel - Secretary</li>
-                        <li class="text-sm">Gary Johnson - Board Member</li>
-                        <li class="text-sm">Open</li>
+                        <li class="text-sm">Christopher Nelson - Board Member</li>
+                        <li class="text-sm">Ed Markowski - Board Member</li>
                     
                     </ul>
                 </div>
