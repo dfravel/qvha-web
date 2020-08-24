@@ -46,11 +46,9 @@
                 <div class="overflow-hidden rounded-lg shadow-lg bg-white p-6 h-full">
                         <h4>Sunshine Committee</h4>
                         <ul class="list-disc ml-4">
-                            <li class="text-sm">Jan Barnum</li>
-                            <li class="text-sm">Larry Bornstein</li>
-                            <li class="text-sm">Joanne Coletti</li>
-                            <li class="text-sm">Lynda Gaudet</li>
-                            <li class="text-sm">Peggy Wolman</li>
+                            <li class="text-sm">Coming Soon</li>
+                            <li class="text-sm">Interested in joining? <a href="/contact" class="">Drop us a note</a></li>
+                            
                         </ul>
                 </div>
             </div>
@@ -60,6 +58,7 @@
                         <h4>Landscape Committee</h4>
                         <ul class="list-disc ml-4">
                             <li class="text-sm">Coming Soon</li>
+                            <li class="text-sm">Interested in joining? <a href="/contact" class="">Drop us a note</a></li>
                             
                         </ul>
                 </div>
