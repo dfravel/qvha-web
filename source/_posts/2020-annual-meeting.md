@@ -5,7 +5,7 @@ title: 2020 Annual Meeting Information
 date: 2020-07-16
 description: Information for the 2020 Annual Meeting
 cover_image: /assets/img/qvha-hero.jpg
-featured: true
+featured: false
 categories: [news, annual-meeting, meetings]
 ---
 

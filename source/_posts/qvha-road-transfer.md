@@ -4,7 +4,7 @@ section: content
 title: Background Info - QVHA Road Transfer
 date: 2019-12-07
 description: A little history about the neighborhood roads and how the town came to take them over.
-featured: true
+featured: false
 categories: [news]
 ---
 

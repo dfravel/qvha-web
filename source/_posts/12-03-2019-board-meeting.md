@@ -4,7 +4,7 @@ section: content
 title: December 3, 2019 Board Meeting
 date: 2019-12-04
 description: Minutes from the December 3, 2019 Board Meeting
-featured: true
+featured: false
 categories: [news, meetings]
 ---
 

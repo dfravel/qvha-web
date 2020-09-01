@@ -5,7 +5,7 @@ title: 2019 Annual Meeting Minutes
 date: 2019-08-20
 description: Minutes from the 2019 Annual Meeting
 cover_image: /assets/img/mashpee-publc-library.jpg
-featured: true
+featured: false
 categories: [news, annual-meeting, meetings]
 ---
 

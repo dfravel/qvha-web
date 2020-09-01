@@ -4,7 +4,7 @@ section: content
 title: June 22, 2020 Board Meeting
 date: 2020-06-23
 description: Minutes from the June 22, 2020 Board Meeting
-featured: true
+featured: false
 categories: [news, meetings]
 ---
 

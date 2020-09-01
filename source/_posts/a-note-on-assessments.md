@@ -4,7 +4,7 @@ section: content
 title: A Note on Annual Assessments
 date: 2019-12-05
 description: Annual Assessments are due by January 31. We are only mailing letters to those who don't have email addresses
-featured: true
+featured: false
 categories: [news]
 ---
 

@@ -5,7 +5,7 @@ title: Email Sign Up
 date: 2019-10-20
 description: Signup for Email Communications
 cover_image: /assets/img/email-signup-cropped.png
-featured: true
+featured: false
 categories: [news]
 ---
 

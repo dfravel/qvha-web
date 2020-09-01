@@ -4,7 +4,7 @@ section: content
 title: July 9, 2020 Board Meeting
 date: 2020-07-09
 description: Minutes from the July 9, 2020 Board Meeting
-featured: true
+featured: false
 categories: [news, meetings]
 ---
 
