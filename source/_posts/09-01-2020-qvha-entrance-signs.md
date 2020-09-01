@@ -4,6 +4,7 @@ section: content
 title: An update on new signs for the neighborhood
 date: 2020-09-01
 description: The sign committee has made its final recommendation to the QVHA Board, and the Board has approved the project. Here's all of the background and next steps.
+cover_image: /assets/img/qvha-hero.jpg
 featured: true
 categories: [news]
 ---
@@ -20,7 +21,7 @@ The 2020 budget includes an approved $5000 for improvements to the community. Th
 
 ### Supporting Documentation
 
-Here's a [link to the supporting documentation](/assets/files/qvha-sign-documentation.pdf)) that guided us in the decision:
+Here's a [link to the supporting documentation](/assets/files/qvha-sign-documentation.pdf) that guided us in the decision:
 
 -   photos of the existing signs showing some rot
 -   photos of the selected sign design
