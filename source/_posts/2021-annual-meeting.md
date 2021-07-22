@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: 2021 Annual Meeting Information
-date: 2020-07-16
+date: 2021-07-22
 description: Information for the 2021 Annual Meeting
 cover_image: /assets/img/qvha-hero.jpg
 featured: true
