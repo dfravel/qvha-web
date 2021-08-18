@@ -4,7 +4,7 @@ section: content
 title: 2021 Annual Meeting Minutes
 date: 2021-08-18
 description: Minutes from the 2021 Annual Meeting
-cover_image: /assets/img/jonas-jacobsson-2xaF4TbjXT0-unsplash.jpg
+cover_image: /assets/img/qvcc.jpg
 featured: true
 categories: [news, annual-meeting, meetings]
 ---
