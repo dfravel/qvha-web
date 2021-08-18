@@ -33,7 +33,7 @@
                     <ul class="list-disc ml-4">
                         <li class="text-sm">Tony Venuti - President</li>
                         <li class="text-sm">Gary Johnson - Treasurer</li>
-                        <li class="text-sm">Christopher Nelsonl - Secretary</li>
+                        <li class="text-sm">Christopher Nelson - Secretary</li>
                         <li class="text-sm">Paul Robillard - Board Member</li>
                         <li class="text-sm">Ed Markowski - Board Member</li>
                     
