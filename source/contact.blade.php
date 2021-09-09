@@ -17,10 +17,10 @@
 
 
 <p class="mb-8">
-    Please use the form below to send us a message. This will be directed to the QVHA Board, and we'll respond to your questions as soon as possible.
+    If you have any questions, or would like to get in touch with a member of the board, please send us an email at <a href="mailto:board@qvhamashpee.com">board@qvhamashpee.com</a>.
 </p>
 
-<form action="https://fieldgoal.io/f/NOOuct" method="POST">
+<!-- <form action="https://fieldgoal.io/f/NOOuct" method="POST">
     <div class="flex flex-wrap mb-6 -mx-3">
         <div class="w-full md:w-1/2 mb-6 md:mb-0 px-3">
             <label class="block mb-2 text-gray-800 text-sm font-semibold" for="contact-name">
@@ -118,5 +118,5 @@
         </div>
     </div>
 
-</form>
+</form> -->
 @stop
