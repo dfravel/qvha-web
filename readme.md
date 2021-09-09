@@ -2,27 +2,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5a040913-fc28-4553-8ef0-f74125bcbc28/deploy-status)](https://app.netlify.com/sites/qvha-web/deploys)
 
-This website has been created and will be maintained by Dave Fravel. As of Sunday, January 20 I'm deciding to develop this website in a JAMStack architecture:
-
--   Netlify CMS
--   Netlify
-
-After careful consideration I've decided to implement this site in a blog-format with pinned posts at the top and all other posts running chronologically
-
-Update on 18 May
-Finally getting back to this
-
-Update on 9 August
-You guessed it - finally getting back to this
-
-### Todo
-
-~~Install netlify information~~
-~~Look into netlify dev setup~~
-~~Install Jigsaw for CMS~~
-
-# Other documentation
-
 The following section is the documentation provided through Jigsaw
 
 ## Jigsaw Blog Starter Template
@@ -41,15 +20,15 @@ After installing Jigsaw, run the following command from your project directory:
 
 This starter template includes samples of common page types, and comes pre-configured with:
 
--   A fully responsive navigation bar
--   [Tailwind CSS](https://tailwindcss.com/), a utility CSS framework that allows you to customize your design without touching a line of CSS
--   [Purgecss](https://www.purgecss.com/) to remove unused selectors from your CSS, resulting in smaller CSS files
--   Syntax highlighting using [highlight.js](https://highlightjs.org/)
--   A script that automatically generates a `sitemap.xml` file
--   A custom 404 page
--   A component for accepting signups for a [Mailchimp](https://mailchimp.com/) newsletter
--   A sample contact form
--   A search bar powered by [Fuse.js](http://fusejs.io/) and [Vue.js](https://vuejs.org/), which indexes your content automatically and requires zero configuration
+- A fully responsive navigation bar
+- [Tailwind CSS](https://tailwindcss.com/), a utility CSS framework that allows you to customize your design without touching a line of CSS
+- [Purgecss](https://www.purgecss.com/) to remove unused selectors from your CSS, resulting in smaller CSS files
+- Syntax highlighting using [highlight.js](https://highlightjs.org/)
+- A script that automatically generates a `sitemap.xml` file
+- A custom 404 page
+- A component for accepting signups for a [Mailchimp](https://mailchimp.com/) newsletter
+- A sample contact form
+- A search bar powered by [Fuse.js](http://fusejs.io/) and [Vue.js](https://vuejs.org/), which indexes your content automatically and requires zero configuration
 
 ---
 
@@ -92,7 +71,6 @@ description: Getting started with the Jigsaw blog starter template
 cover_image: /assets/img/post-cover-image-2.png
 featured: true
 ---
-
 ```
 
 ---
